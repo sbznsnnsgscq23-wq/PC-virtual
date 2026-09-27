@@ -1,6 +1,6 @@
 PC criado pelo @alves7.pcm
 
-on:
+name:CI
   workflow_dispatch:
     inputs:
       instance_number:
