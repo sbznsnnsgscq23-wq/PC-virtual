@@ -5,7 +5,7 @@ on:
     inputs:
       instance_number:
         description: 'Instance Number (1-10)'
-        required: true
+        required: false
         default: '1'
         type: string
 
