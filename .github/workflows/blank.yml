@@ -1,6 +1,6 @@
-PC criado pelo @alves7.pcm
+: PC criado pelo @alves7.pcm
 
-name:CI
+on:
   workflow_dispatch:
     inputs:
       instance_number:
